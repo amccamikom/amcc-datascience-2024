@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://via.placeholder.com/150" alt="AMCC Logo" width="150"/>
+  <img src="logo_data_science.jpg" alt="AMCC Logo" width="150"/>
   
   ### Kumpulan Materi Pembelajaran Divisi Data Science AMCC 2024/2025
 </div>
@@ -21,7 +21,7 @@ Mari tingkatkan kemampuan kita bersama! 💪
 ---
 
 ## 📚 Daftar Modul Pembelajaran
-Berikut adalah daftar materi Pelatihan 1:
+Berikut adalah daftar materi yang tersedia:
 
 1. **Basic Syntax Python**
    - [Artikel Medium](https://medium.com/amcc-amikom/python-awal-perjalanan-data-science-162cb7ca6834)
