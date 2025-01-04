@@ -21,10 +21,10 @@ Mari tingkatkan kemampuan kita bersama! 💪
 ---
 
 ## 📚 Daftar Modul Pembelajaran
-Berikut adalah daftar materi yang tersedia:
+Berikut adalah daftar materi pelatihan 2:
 
-1. **Basic Syntax Python**
-   - [Artikel Medium](https://medium.com/amcc-amikom/python-awal-perjalanan-data-science-162cb7ca6834)
+   **Numpy and Pandas**
+   - [Artikel Medium](https://medium.com/amcc-amikom/pengenalan-library-numpy-dan-pandas-untuk-data-science-2da8bd9a17af)
    - [Google Slides](https://docs.google.com/presentation/d/12S_5GipM3KKgisPv3sJfZ2CqSF5AdIrOx16-KY4uMxU/edit?usp=sharing)
 
 
