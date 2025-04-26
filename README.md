@@ -24,8 +24,8 @@ Mari tingkatkan kemampuan kita bersama! 💪
 Berikut adalah daftar materi yang tersedia:
 
 1. **Basic Syntax Python**
-   - [Artikel Medium](https://medium.com/amcc-amikom/python-awal-perjalanan-data-science-162cb7ca6834)
-   - [Google Slides](https://docs.google.com/presentation/d/12S_5GipM3KKgisPv3sJfZ2CqSF5AdIrOx16-KY4uMxU/edit?usp=sharing)
+   - [Artikel Medium](https://medium.com/amcc-amikom/modul-eda-exploratory-data-analysis-lanjutan-panduan-lengkap-untuk-pemula-ae5604187569)
+   - [Google Slides](https://drive.google.com/file/d/1eTs-fOWBJ3_ygZJypSK-6CZLhUn91e9N/view?usp=sharing)
 
 
 ## 🛠️ Cara Menggunakan Repositori Ini
